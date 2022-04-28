@@ -35,3 +35,6 @@ I also scheduled the automatic “Saving” of the forecasts hourly in the backe
 What I learned from implementing the project   
 
 This project gave me some valuable experience especially with the front-end. It honed my skills with HTML and CSS. It was also a good lesson when it comes to using different APIs and mapping JSON data. The project solidified my understanding of the fact that all planning has to be flexible, because the way you intend to implement a feature may not always be possible or the most convenient, therefore one should always have some backup ideas or alternative solutions to nevertheless achieve the objectives.
+
+Talis Paas
+Paastalis@gmail.com
