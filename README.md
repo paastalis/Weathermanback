@@ -4,16 +4,16 @@ How to deploy/run the solution
 
 To run the backend (Spring Boot):
 
-The project must be cloned from https://github.com/paastalis/Weatherman_backend
-The program must be executed
-The app can be accessed from localhost:8080
+1. The project must be cloned from https://github.com/paastalis/Weatherman_backend
+2. The program must be executed
+3. The app can be accessed from localhost:8080
 
 To run the frontend (Angular):
 
-The project must be cloned from https://github.com/paastalis/Weatherman_frontend
-Using the command line, navigate to the project folder
-In the project folder, execute the command “npm install”. This installs the node_modules folder
- In the project folder, execute the command "ng serve". This runs the Angular project.
+1. The project must be cloned from https://github.com/paastalis/Weatherman_frontend
+2. Using the command line, navigate to the project folder
+3. In the project folder, execute the command “npm install”. This installs the node_modules folder
+4. In the project folder, execute the command "ng serve". This runs the Angular project.
 
 
 The following is a description of the development process split into four main parts. I have brought out the amount of days each part took me to create/implement. On most days I worked on the project for 2-6 hours.
